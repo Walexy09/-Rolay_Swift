@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rolay_swift", "Rolay_swift\Rolay_swift.csproj", "{601F44ED-DE77-499B-A715-D2BEAA81B3CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{601F44ED-DE77-499B-A715-D2BEAA81B3CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{601F44ED-DE77-499B-A715-D2BEAA81B3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{601F44ED-DE77-499B-A715-D2BEAA81B3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{601F44ED-DE77-499B-A715-D2BEAA81B3CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A652772A-269E-47EB-B84D-6CC1A83E4093}
+	EndGlobalSection
+EndGlobal
